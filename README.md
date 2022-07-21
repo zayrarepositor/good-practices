@@ -1,15 +1,18 @@
-# good-practices
-good practices for harmonious &amp; effective work
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><image src="https://giphy.com/embed/hvp4bP1xI01E65n2oc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen /></div>
+## Good Practices for all
 
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=CAC8F8&background=1C1C1D&size=25&center=true&vCenter=true&width=433&height=75&lines=for+me;for+you;for+the+project;for+our+lives!">
 </p>
 
-<a href="https://www.linkedin.com/in/zayra-velasco"><div style="padding-top:25.000%;position:relative;"><img src="https://raw.githubusercontent.com/zayrarepositor/zayrarepositor/main/MQXv.gif" width="100%" height="20%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen/></div></a>
+<div style="padding-top:25.000%;position:relative;"><img src="https://raw.githubusercontent.com/zayrarepositor/good-practices/main/giphy.gif" width="100%" height="20%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen/></div>
 
 ## About this
 A repository for good practices, why not? We all want a good practices handbook near ( ͡~ ͜ʖ ͡°)
+
+## Contact info:
+
+    linkedIn ☞ <a href="https://www.linkedin.com/in/zayra-velasco">zayra velasco</a>
+    mail ☞ <a href="mailto:zayra.contacto@gmail.com">zayra.contacto - gmail</a>
 
 ## Headers (english)
 //======LIBRARIES & DEPENDENCIES
@@ -51,10 +54,6 @@ Welcome to {projectname}-{year}
 
 ☢ {##snips}You could check out some snips here: 
 
-![budget-01](https://user-images.githubusercontent.com/95602965/174758127-ceae0372-d2fc-412d-9cc0-db5191c365b0.png)
-
-![budget-02](https://user-images.githubusercontent.com/95602965/174758153-a971eb47-19ff-4f78-b61d-6b5db43a4d11.png)
-
-![budget-03](https://user-images.githubusercontent.com/95602965/174758186-abf9bfdb-2581-4467-a89f-dbb9b04b9da5.png)
+{![title](https://url)}
 
 Good Life! ( ͡~ ͜ʖ ͡°)
