@@ -10,9 +10,8 @@
 A repository for good practices, why not? We all want a good practices handbook near ( ͡~ ͜ʖ ͡°)
 
 ## Contact info:
-
-    linkedIn ☞ <a href="https://www.linkedin.com/in/zayra-velasco">zayra velasco</a>
-    mail ☞ <a href="mailto:zayra.contacto@gmail.com">zayra.contacto - gmail</a>
+linkedIn ☞ <a href="https://www.linkedin.com/in/zayra-velasco">zayra velasco</a>
+mail ☞ <a href="mailto:zayra.contacto@gmail.com">zayra.contacto - gmail</a>
 
 ## Headers (english)
 //======LIBRARIES & DEPENDENCIES
@@ -47,10 +46,9 @@ Welcome to {projectname}-{year}
 
 ✎ {##next}Next update: backend
 
-✉ {##contact}Contact info:
-
-    linkedIn ☞ https://www.linkedin.com/in/zayra-velasco
-    mail ☞ zayra.contacto@gmail.com
+## {Contact info:} ✉
+linkedIn ☞ <a href="https://www.linkedin.com/in/zayra-velasco">zayra velasco</a>
+mail ☞ <a href="mailto:zayra.contacto@gmail.com">zayra.contacto - gmail</a>
 
 ☢ {##snips}You could check out some snips here: 
 
