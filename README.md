@@ -46,9 +46,9 @@ Welcome to {projectname}-{year}
 
 ✎ {##next}Next update: backend
 
-## {Contact info:} ✉
-linkedIn ☞ <a href="https://www.linkedin.com/in/zayra-velasco">zayra velasco</a>
-mail ☞ <a href="mailto:zayra.contacto@gmail.com">zayra.contacto - gmail</a>
+## {Contact info:}✉
+<p>linkedIn ☞ <a href="https://www.linkedin.com/in/zayra-velasco">zayra velasco</a></p>
+<p>mail ☞ <a href="mailto:zayra.contacto@gmail.com">zayra.contacto - gmail</a></p>
 
 ☢ {##snips}You could check out some snips here: 
 
