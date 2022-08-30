@@ -6,10 +6,15 @@
 
 <div style="padding-top:25.000%;position:relative;"><img src="https://raw.githubusercontent.com/zayrarepositor/good-practices/main/giphy.gif" width="100%" height="20%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen/></div>
 
+## About this
+👩‍💻 A repository for good practices, why not? We all want a good practices handbook near ( ͡~ ͜ʖ ͡°)
+
 ## Welcome Personal Projects Readme 2022
+<p align='center'>
+<img src="https://readme-typing-svg.herokuapp.com?color=CAC8F8&background=1C1C1D&size=25&center=true&vCenter=true&width=433&height=75&lines=Hi!+I+am+Zayra+Velasco;Soft+dev+and+Admin+manager;it+is+a+frontend+project;enjoy+it+!">
+</p>
 
 ## About this
-A repository for good practices, why not? We all want a good practices handbook near ( ͡~ ͜ʖ ͡°)
 
 ❤ Hey! Here developer {devname}, and a small project, in progress, with vite and css...
 
