@@ -30,7 +30,7 @@
 ✎ Next update: backend
 
 ## Contact info:
-☞ <a href="https://www.linkedin.com/in/zayra-velasco" target="_blank">Portfolio</a></p>
+☞ <a href="https://github.com/zayrarepositor/portfolio-2022" target="_blank">Portfolio</a></p>
 ☞ <a href="https://www.linkedin.com/in/zayra-velasco" target="_blank">LinkedIn</a></p>
 ☞ <a href="mailto:zayra.contacto@gmail.com"  target="_blank">Email</a>
 
