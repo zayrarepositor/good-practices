@@ -6,12 +6,35 @@
 
 <div style="padding-top:25.000%;position:relative;"><img src="https://raw.githubusercontent.com/zayrarepositor/good-practices/main/giphy.gif" width="100%" height="20%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen/></div>
 
+## Welcome Personal Projects Readme 2022
+
 ## About this
 A repository for good practices, why not? We all want a good practices handbook near ( ͡~ ͜ʖ ͡°)
 
+❤ Hey! Here developer {devname}, and a small project, in progress, with vite and css...
+
+## Demo
+☞ https://rad-pothos-ce687f.netlify.app/
+## Video
+☢ You could check out a video demo here ☞ https://youtu.be/E9mpdyUiKd8
+## Tech
+☑ {}Auth0 login
+☑ 
+
+## Next
+✎ Next update: backend
+
 ## Contact info:
-<p>linkedIn ☞ <a href="https://www.linkedin.com/in/zayra-velasco">zayra velasco</a></p>
-<p>mail ☞ <a href="mailto:zayra.contacto@gmail.com">zayra.contacto - gmail</a></p>
+☞ <a href="https://www.linkedin.com/in/zayra-velasco" target="_blank">Portfolio</a></p>
+☞ <a href="https://www.linkedin.com/in/zayra-velasco" target="_blank">LinkedIn</a></p>
+☞ <a href="mailto:zayra.contacto@gmail.com"  target="_blank">Email</a>
+
+## Snips
+☢ You could check out some snips here: 
+
+{![title](https://url)}
+
+Good Life! ( ͡~ ͜ʖ ͡°)
 
 ## Headers (english)
 //======LIBRARIES & DEPENDENCIES
@@ -31,27 +54,26 @@ A repository for good practices, why not? We all want a good practices handbook 
 
 //======ESTILO E IMAGENES
 
-## Personal Projects Readme
-Welcome to {projectname}-{year}
+## Commits
 
-❤ {##intro}Hey! Here developer {devname}, and a small project, in progress, with vite and css.
+action (where): description 
 
-☞ {##deploy}https://rad-pothos-ce687f.netlify.app/
+## PR
+* Tittle
 
-☑ {##about}Budget App was thought as a helper for expenses register and track. Once you set a budget, you can create, edit, delete and filter the expenses.
+[branch] Task
 
-☑ {##tech}Auth0 login
+* Task
 
-☢ {##video}You could check out a video demo here ☞ https://youtu.be/E9mpdyUiKd8
+![tittle](link)
 
-✎ {##next}Next update: backend
+* Actions
 
-## {Contact info:}✉
-<p>linkedIn ☞ <a href="https://www.linkedin.com/in/zayra-velasco">zayra velasco</a></p>
-<p>mail ☞ <a href="mailto:zayra.contacto@gmail.com">zayra.contacto - gmail</a></p>
+✅ feature or task 
+:bomb: instalation
+:octocat: optimization/fix and debug
 
-☢ {##snips}You could check out some snips here: 
-
-{![title](https://url)}
+* Snips
+<p align="center">/activities POST user role validation (standard user)</p>
 
 Good Life! ( ͡~ ͜ʖ ͡°)
